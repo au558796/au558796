@@ -1,21 +1,17 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatistics-analytics.uark.edu%2F_resources%2Fimages%2Fstatistics-analytics-index.jpg&f=1&nofb=1)
-<h1 align="center">Hello, I'm Dana Evelyn Jensen</h1>
+<h1 align="center">You've Reached the Github of: I'm Dana Evelyn Jensen</h1>
 <h3 align="center">An Aspiring Junior Data Analyst from Waterloo, ON</h3>
-<img align="center" alt="Coding" width="400" src="https://wallpaperaccess.com/full/3039554.jpg">
 
 
+- 🌱 I’m currently learning: **SQL, Tableau**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=au558796" alt="au558796" /></a> </p>
+- 💬 Ask me about: **Statistics, Cognitive Science**
 
-- 🌱 I’m currently learning **SQL, Tableau**
+- 📫 How to reach me: **dana.jensen85@gmail.com**
 
-- 💬 Ask me about **Statistics, Cognitive Science**
+- 📄 Know about my experiences: [file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf](file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf)
 
-- 📫 How to reach me **dana.jensen85@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf](file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf)
-
-- ⚡ Fun fact **My favourite animal is an Octopus**
+- ⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
