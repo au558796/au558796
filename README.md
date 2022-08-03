@@ -8,7 +8,7 @@
 
 - 💡 Ask me about: **Statistics, Cognitive Science**
 
-- 📫 How to reach me: **dana.jensen85@gmail.com**
+- 📫 How to reach me: **dana.jensen85@gmail.com** 
 
 - 📄 Know about my experiences: [file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf](file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf)
 
