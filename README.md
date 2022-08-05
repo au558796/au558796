@@ -14,7 +14,7 @@
 
 - 📊 View my portfolio: [https://au558796.github.io/au559786-2.github.io/](https://au558796.github.io/au559786-2.github.io/)
 
-- 💻 See my Freelancer profile: [https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666) 
+- 💻 See my Freelancer profile: **[https://www.freelancer.com/u/Mandelbrot666]**(https://www.freelancer.com/u/Mandelbrot666) 
 
 - ⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
 
