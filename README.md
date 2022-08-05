@@ -12,7 +12,9 @@
 
 - 📄 Know about my experiences: [file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf](file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf)
 
-- 📊 View my other projects: [https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666)
+- 📊 View my portfolio: [https://au558796.github.io/au559786-2.github.io/](https://au558796.github.io/au559786-2.github.io/)
+
+- 💻 See my Freelancer profile: [https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666) 
 
 - ⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
 
