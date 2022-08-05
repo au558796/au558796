@@ -21,11 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dana evelyn jensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dana evelyn jensen" height="30" width="40" /></a>
-
 <a href="https://workplace.slack.com/team/U03GVBGD42U" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" alt="dana evelyn jensen" height="30" width="40" /></a>
-
 <a href="https://www.kaggle.com/au558796" target="blank"><img align="center" src="https://ih1.redbubble.net/image.1487030337.4900/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="dana evelyn jensen" height="30" width="40" /></a>
-
 <a href="https://discordapp.com/users/D%C3%A6n%C3%A0#6045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dana evelyn jensen" height="30" width="40" /></a>
 </p>
 
