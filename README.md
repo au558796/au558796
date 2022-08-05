@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **dana.jensen85@gmail.com** 
 
-- 📄 Know about my experiences: [file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf](file:///C:/Users/danaj/Desktop/who%20knows/aa%20-%20Job%20Applications/1%20Resumes/New-Dana-Jensen-July-2022.pdf)
+- 📄 Know about my experiences: [https://github.com/au558796/au558796/blob/main/Dana-Jensen-Aug-2022.pdf](https://github.com/au558796/au558796/blob/main/Dana-Jensen-Aug-2022.pdf)
 
 - 📊 View my portfolio: [https://au558796.github.io/au559786-2.github.io/](https://au558796.github.io/au559786-2.github.io/)
 
