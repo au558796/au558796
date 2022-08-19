@@ -1,6 +1,6 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatistics-analytics.uark.edu%2F_resources%2Fimages%2Fstatistics-analytics-index.jpg&f=1&nofb=1)
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
-<h3 align="center">An Aspiring Junior Data Analyst from Waterloo, ON</h3>
+<h3 align="center">An Aspiring Junior Research Data Analyst from Waterloo, ON</h3>
 
 - 👨‍💻 I’m currently working on: **Becoming SQL Certified**
 
