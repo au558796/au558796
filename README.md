@@ -2,9 +2,9 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Junior Research Data Analyst from Waterloo, ON</h3>
 
-- 👨‍💻 I’m currently working on: **Becoming SQL Certified**
+- 👨‍💻 I’m currently working on: **Revisiting and Updating Prior Projects**
 
-- 🌱 I’m currently learning: **SQL, Tableau**
+- 🌱 I’m currently learning: **At The University of Toronto: Mindfulness Meditation & DBT Certificates**
 
 - 💡 Ask me about: **Statistics, Cognitive Science**
 
