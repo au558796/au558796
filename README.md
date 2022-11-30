@@ -2,7 +2,7 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Junior Analyst from Waterloo, ON</h3>
 
-- 👨‍💻 I’m currently working on: **Revisiting and Updating Prior Projects, Advent of Code**
+- 👨‍💻 I’m currently working on: **Revisiting and Updating Prior Projects and Advent of Code**
 
 - 🌱 I’m currently learning: **At The University of Toronto: Mindfulness Meditation & DBT Certificates**
 
