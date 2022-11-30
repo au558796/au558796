@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **dana.jensen85@gmail.com** 
 
-- 📄 Know about my experiences: **[https://https://www.linkedin.com/in/dana-evelyn-jensen/](https://https://www.linkedin.com/in/dana-evelyn-jensen/)**
+- 📄 Know about my experiences: **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
 
 - 📊 View my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
 
