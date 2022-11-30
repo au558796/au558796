@@ -2,15 +2,15 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Junior Research Data Analyst from Waterloo, ON</h3>
 
-- 👨‍💻 I’m currently working on: **Revisiting and Updating Prior Projects**
+- 👨‍💻 I’m currently working on: **Revisiting and Updating Prior Projects, Advent of Code**
 
 - 🌱 I’m currently learning: **At The University of Toronto: Mindfulness Meditation & DBT Certificates**
 
-- 💡 Ask me about: **Statistics, Cognitive Science**
+- 💡 Ask me about: **Statistics, Cognitive Science, Clinical Psychology**
 
 - 📫 How to reach me: **dana.jensen85@gmail.com** 
 
-- 📄 Know about my experiences: **[https://github.com/au558796/au558796/blob/main/Dana-Jensen-Oct-2022.pdf](https://github.com/au558796/au558796/blob/main/Dana-Jensen-Oct-2022.pdf)**
+- 📄 Know about my experiences: **[https://https://www.linkedin.com/in/dana-evelyn-jensen/](https://https://www.linkedin.com/in/dana-evelyn-jensen/)**
 
 - 📊 View my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
 
