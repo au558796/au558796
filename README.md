@@ -5,6 +5,7 @@
 - 👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
 
 - 🌱 I’m currently learning:
+
       - **Data Science at the University of Colorado.**
       - **Upskilling my programming skills on LinkedIn Learning, Coursera, and YouTube.** 
 
