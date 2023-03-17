@@ -2,11 +2,15 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Data Scientist from Waterloo, ON</h3>
 
-- 👨‍💻 I’m currently working on: **Studying, volunteering, and cleaning-up prior projects**
+- 👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
 
-- 🌱 I’m currently learning: **Studying at The University of Colorado for a Master in Data Science**
+- 🌱 I’m currently learning:
+      - **Data Science at the University of Colorado.**
+      - **Upskilling my programming skills on LinkedIn Learning, Coursera, and YouTube.** 
 
-- 💡 Ask me about: **Statistics, Cognitive Science, Clinical Psychology**
+- 📖 I'm currently reading: **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
+
+- ⚖️ My core values are: **Integrity, Justice, Authenticity, Creative Expression, Freedom, Caring for others and the world, Wellness.**
 
 - 📫 How to reach me: **dana.jensen85@gmail.com** 
 
