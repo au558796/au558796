@@ -2,12 +2,12 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Data Scientist from Waterloo, ON</h3>
 
-**👨‍💻Currently, I'm working on: **
+**👨‍💻Currently, I'm working on:**
 - Looking for entry-level opportunities in data science and analytics
 - Volunteering at a local charity as Data Lead
 - Building a new website for a personal blog
 
-🌱**I’m currently learning: **
+🌱**I’m currently learning:**
 - Data Science at the University of Colorado
 - Applied Specialization of Mindlefulness Meditation, Dialectical Behavioural Therapy at the University of Toronto
 - Upskilling on LinkedIn Learning, Coursera, and Kahn Academy
