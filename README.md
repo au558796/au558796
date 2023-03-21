@@ -2,23 +2,26 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Data Scientist from Waterloo, ON</h3>
 
-- 👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
+👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
 
-- 🌱 I’m currently learning: **Data Science at the University of Colorado, Applied Specialization of Mindlefulness Meditation and Dialectical Behavioural Therapy at the University of Toronto, and upskilling on LinkedIn Learning, Coursera, and Kahn Academy.** 
+🌱 I’m currently learning: 
+- **Data Science at the University of Colorado
+- **Applied Specialization of Mindlefulness Meditation and Dialectical Behavioural Therapy at the University of Toronto**
+- **Upskilling on LinkedIn Learning, Coursera, and Kahn Academy.** 
 
-- 📖 I'm currently reading: **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
+📖 I'm currently reading: **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
 
-- ⚖️ My core values are: **Integrity, Justice, Authenticity, Creative Expression, Freedom, Caring for others and the world, Wellness.**
+⚖️ My core values are: **Integrity, Justice, Authenticity, Creative Expression, Freedom, Caring for others and the world, Wellness.**
 
-- 📫 How to reach me: **dana.jensen85@gmail.com** 
+📫 How to reach me: **dana.jensen85@gmail.com** 
 
-- 📄 View my resume: **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
+📄 View my resume: **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
 
-- 📊 View my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
+📊 View my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
 
-- 💻 See my Freelancer profile: **[https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666)** 
+💻 See my Freelancer profile: **[https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666)** 
 
-- ⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
+⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
