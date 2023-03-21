@@ -2,42 +2,42 @@
 <h1 align="center">You've Reached the Github of: Dana Jensen</h1>
 <h3 align="center">An Aspiring Data Scientist from Waterloo, ON</h3>
 
-👨‍💻 Currently, I'm working on: 
-- **Looking for entry-level opportunities in data science and analytics**
-- **Volunteering at a local charity as Data Lead**
-- **Building a new website for a personal blog**
+👨‍💻**Currently, I'm working on: **
+- Looking for entry-level opportunities in data science and analytics
+- Volunteering at a local charity as Data Lead
+- Building a new website for a personal blog
 
-🌱 I’m currently learning: 
-- **Data Science at the University of Colorado**
-- **Applied Specialization of Mindlefulness Meditation, Dialectical Behavioural Therapy at the University of Toronto**
-- **Upskilling on LinkedIn Learning, Coursera, and Kahn Academy** 
+🌱**I’m currently learning: **
+- Data Science at the University of Colorado
+- Applied Specialization of Mindlefulness Meditation, Dialectical Behavioural Therapy at the University of Toronto
+- Upskilling on LinkedIn Learning, Coursera, and Kahn Academy
 
-📖 I'm currently reading: 
-- **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
+📖**I'm currently reading: **
+- The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.
 
-⚖️ My core values are: 
-- **Integrity**
-- **Justice**
-- **Authenticity**
-- **Creative Expression**
-- **Freedom**
-- **Caring for Others and the World**
-- **Wellness**
+⚖️**My core values are: **
+- Integrity
+- Justice
+- Authenticity
+- Creative Expression
+- Freedom
+- Caring for Others and the World
+- Wellness
 
-📫 How to reach me: 
-- **dana.jensen85@gmail.com** 
+📫**How to reach me:** 
+- dana.jensen85@gmail.com
 
-📄 Review my resume: 
-- **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
+📄**Review my resume: **
+- [https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)
 
-📊 Visit my portfolio: 
-- **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
+📊**Visit my portfolio: **
+- [https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)
 
-💻 Check-out my (wip) blog:
-- **[https://au558796.github.io/Changing_Winds/index.html](https://au558796.github.io/Changing_Winds/index.html)**
+💻**Check-out my (wip) blog:**
+- [https://au558796.github.io/Changing_Winds/index.html](https://au558796.github.io/Changing_Winds/index.html)
 
-⚡ Fun fact:
-- **My Favourite Animal Is An Octopus 🐙**
+⚡ Fun fact:**
+- **My Favourite Animal Is An Octopus 🐙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
