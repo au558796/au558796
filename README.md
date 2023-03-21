@@ -37,7 +37,7 @@
 - [https://au558796.github.io/Changing_Winds/index.html](https://au558796.github.io/Changing_Winds/index.html)
 
 ⚡ **Fun fact:**
-- **My Favourite Animal Is An Octopus 🐙
+- My Favourite Animal Is An Octopus 🐙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
