@@ -12,17 +12,18 @@
 - **Applied Specialization of Mindlefulness Meditation, Dialectical Behavioural Therapy at the University of Toronto**
 - **Upskilling on LinkedIn Learning, Coursera, and Kahn Academy** 
 
-📖 I'm currently reading: **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
+📖 I'm currently reading: 
+**The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
 
 ⚖️ My core values are: **Integrity, Justice, Authenticity, Creative Expression, Freedom, Caring for others and the world, Wellness.**
 
 📫 How to reach me: **dana.jensen85@gmail.com** 
 
-📄 View my resume: **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
+📄 Review my resume: **[https://www.linkedin.com/in/dana-evelyn-jensen/](https://www.linkedin.com/in/dana-evelyn-jensen/)**
 
-📊 View my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
+📊 Visit my portfolio: **[https://au558796.github.io/au558796-2.github.io/](https://au558796.github.io/au558796-2.github.io/)**
 
-💻 See my Freelancer profile: **[https://www.freelancer.com/u/Mandelbrot666](https://www.freelancer.com/u/Mandelbrot666)** 
+💻 Check-out my (wip) blog: **[https://au558796.github.io/Changing_Winds/index.html](https://au558796.github.io/Changing_Winds/index.html)**
 
 ⚡ Fun fact: **My Favourite Animal Is An Octopus 🐙**
 
