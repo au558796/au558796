@@ -13,7 +13,7 @@
 - **Upskilling on LinkedIn Learning, Coursera, and Kahn Academy** 
 
 📖 I'm currently reading: 
-**The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
+- **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
 
 ⚖️ My core values are: **Integrity, Justice, Authenticity, Creative Expression, Freedom, Caring for others and the world, Wellness.**
 
