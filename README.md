@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
 
-- 🌱 I’m currently learning: **Data Science at the University of Colorado, Applied Specialization of Mindlefulness Meditation and Dialectical Behavioural Therapy at the University of Toronto, and upskilling my programming skills on LinkedIn Learning, Coursera, and YouTube.** 
+- 🌱 I’m currently learning: **Data Science at the University of Colorado, Applied Specialization of Mindlefulness Meditation and Dialectical Behavioural Therapy at the University of Toronto, and upskilling on LinkedIn Learning, Coursera, and Kahn Academy.** 
 
 - 📖 I'm currently reading: **The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality by Hervey M. Cleckley.**  
 
