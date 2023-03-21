@@ -5,7 +5,7 @@
 👨‍💻 Currently, I'm working on: **Volunteering at a local charity as Data Lead.**
 
 🌱 I’m currently learning: 
-- **Data Science at the University of Colorado
+- **Data Science at the University of Colorado**
 - **Applied Specialization of Mindlefulness Meditation and Dialectical Behavioural Therapy at the University of Toronto**
 - **Upskilling on LinkedIn Learning, Coursera, and Kahn Academy.** 
 
